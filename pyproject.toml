@@ -63,7 +63,7 @@ all = [
 [project.urls]
 Homepage = "https://github.com/dpmattos/text_extractor"
 Documentation = "https://github.com/dpmattos/text_extractor#readme"
-Repository = "git@github.com:dpmattos/text_extractor.git"
+Repository = "https://github.com/dpmattos/text_extractor.git"
 Issues = "https://github.com/dpmattos/text_extractor/issues"
 
 [project.scripts]
