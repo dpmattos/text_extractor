@@ -1,0 +1,19 @@
+# Core dependencies
+docopt-ng>=0.8.0
+PyPDF2>=3.0.0
+python-docx>=0.8.11
+odfpy>=1.4.1
+
+# Optional: For development
+# pytest>=7.0.0
+# pytest-cov>=4.0.0
+# black>=23.0.0
+# flake8>=6.0.0
+# mypy>=1.0.0
+
+# Optional: For faster PDF processing
+# pypdf>=3.0.0
+
+# Optional: For OCR support (scanned PDFs)
+# pdf2image>=1.16.0
+# pytesseract>=0.3.10
