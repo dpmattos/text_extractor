@@ -4,7 +4,7 @@ A Python tool that recursively extracts text from PDF, DOCX, ODT, and TXT files 
 
 **Author:** dpmattos  
 **Email:** dpmattos@uwaterloo.ca  
-**GitHub:** [dpmattos/text-extractor](https://github.com/dpmattos/text-extractor)
+**GitHub:** [dpmattos/text_extractor](https://github.com/dpmattos/text_extractor)
 
 ## Features
 
@@ -18,7 +18,7 @@ A Python tool that recursively extracts text from PDF, DOCX, ODT, and TXT files 
 
 ```bash
 # Clone the repository
-git clone https://github.com/dpmattos/text-extractor.git
+git clone git@github.com:dpmattos/text_extractor.git
 cd text-extractor
 
 # Setup virtual environment and install dependencies

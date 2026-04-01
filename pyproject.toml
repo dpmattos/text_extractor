@@ -3,7 +3,7 @@ requires = ["setuptools>=61.0", "wheel"]
 build-backend = "setuptools.build_meta"
 
 [project]
-name = "text-extractor"
+name = "text_extractor"
 version = "2.0.0"
 description = "Extract text from PDF, DOCX, ODT, and TXT files in a directory tree and save to JSON"
 readme = "README.md"
@@ -61,10 +61,10 @@ all = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/dpmattos/text-extractor"
-Documentation = "https://github.com/dpmattos/text-extractor#readme"
-Repository = "https://github.com/dpmattos/text-extractor.git"
-Issues = "https://github.com/dpmattos/text-extractor/issues"
+Homepage = "https://github.com/dpmattos/text_extractor"
+Documentation = "https://github.com/dpmattos/text_extractor#readme"
+Repository = "git@github.com:dpmattos/text_extractor.git"
+Issues = "https://github.com/dpmattos/text_extractor/issues"
 
 [project.scripts]
 text-extract = "text_extractor:main"
